@@ -1,0 +1,4 @@
+llama-index-llms-openai==0.1.20
+llama-index-multi-modal-llms-openai==0.1.6
+llama-index-readers-file==0.1.22
+llama-index-core==0.10.38
